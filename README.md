@@ -26,4 +26,4 @@ npm start
 ```
 
 ## 📈 Status do projeto
-✅ Concluído
+Concluído ✅ 
