@@ -7,6 +7,7 @@
 ## 📋 Descrição do projeto
 Foi desenvolvido um aplicativo de receitas através de duas APIs diferentes. Com ele você consegue buscar receitas por nome, ingrediente, local de origem, favorita-las e executa-las, e consegue visualizar as favoritas e feitas depois.
 Com a um design responsivo tanto para mobile quanto para web. 
+Obs: Neste repositório o projeto está sem estilização
 
 ## 💻 Tecnologias utilizadas
 - React
